@@ -1,0 +1,14 @@
+/Users/ruimiguelsilva/Documents/dotnet/Ficha_2/bin/Debug/net8.0/Ficha_2
+/Users/ruimiguelsilva/Documents/dotnet/Ficha_2/bin/Debug/net8.0/Ficha_2.deps.json
+/Users/ruimiguelsilva/Documents/dotnet/Ficha_2/bin/Debug/net8.0/Ficha_2.runtimeconfig.json
+/Users/ruimiguelsilva/Documents/dotnet/Ficha_2/bin/Debug/net8.0/Ficha_2.dll
+/Users/ruimiguelsilva/Documents/dotnet/Ficha_2/bin/Debug/net8.0/Ficha_2.pdb
+/Users/ruimiguelsilva/Documents/dotnet/Ficha_2/obj/Debug/net8.0/Ficha_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruimiguelsilva/Documents/dotnet/Ficha_2/obj/Debug/net8.0/Ficha_2.AssemblyInfoInputs.cache
+/Users/ruimiguelsilva/Documents/dotnet/Ficha_2/obj/Debug/net8.0/Ficha_2.AssemblyInfo.cs
+/Users/ruimiguelsilva/Documents/dotnet/Ficha_2/obj/Debug/net8.0/Ficha_2.csproj.CoreCompileInputs.cache
+/Users/ruimiguelsilva/Documents/dotnet/Ficha_2/obj/Debug/net8.0/Ficha_2.dll
+/Users/ruimiguelsilva/Documents/dotnet/Ficha_2/obj/Debug/net8.0/refint/Ficha_2.dll
+/Users/ruimiguelsilva/Documents/dotnet/Ficha_2/obj/Debug/net8.0/Ficha_2.pdb
+/Users/ruimiguelsilva/Documents/dotnet/Ficha_2/obj/Debug/net8.0/Ficha_2.genruntimeconfig.cache
+/Users/ruimiguelsilva/Documents/dotnet/Ficha_2/obj/Debug/net8.0/ref/Ficha_2.dll
