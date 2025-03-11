@@ -12,3 +12,4 @@
 /Users/ruimiguelsilva/Documents/dotnet/Ficha_3/obj/Debug/net8.0/Ficha_3.pdb
 /Users/ruimiguelsilva/Documents/dotnet/Ficha_3/obj/Debug/net8.0/Ficha_3.genruntimeconfig.cache
 /Users/ruimiguelsilva/Documents/dotnet/Ficha_3/obj/Debug/net8.0/ref/Ficha_3.dll
+/Users/ruimiguelsilva/Documents/dotnet/Ficha_3/obj/Debug/net8.0/Ficha_3.sourcelink.json
